@@ -1,2 +1,0 @@
-# Installation of VS Code:
-    
